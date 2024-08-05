@@ -1,0 +1,7 @@
+name = "phonebook-backend"
+main = "src/index.js"
+compatibility_date = "2024-08-05"
+type = "javascript"
+account_id = "36bc21fa435af798840bc12e1de962df"
+workers_dev = true
+node_compat = true
