@@ -7,7 +7,7 @@ This repository contains the code for a Phonebook application. The application c
 ## Deployed Applications
 
 - **Front End:** [https://phonebook-6ot.pages.dev/](https://phonebook-6ot.pages.dev/)
-- **Back End:** [https://phonebook-backend.greygladyreigh.workers.dev/](https://phonebook-backend.greygladyreigh.workers.dev/)
+- **Back End:** [https://phonebook-backend.greygladyreigh.workers.dev/](https://phonebook-backend.greygladyreigh.workers.dev/api/persons)
 
 ## Front End
 
